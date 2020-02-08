@@ -12,7 +12,7 @@ Code created using [VuePress](https://vuepress.vuejs.org/).
 
 ## Smart Contracts Source
  
-Discover Smart Contracts source [here](https://github.com/vittominacori/erc20-generator).
+Discover Smart Contracts source [here](https://github.com/imskaaz/erc20-generator).
 
 ## Install dependencies
 
